@@ -1,0 +1,1 @@
+# doc.goidea.com
